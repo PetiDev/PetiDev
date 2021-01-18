@@ -9,5 +9,5 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: Discord: ICreeper12#1182
 - ⚡ Fun fact: I'm terrible in class names.
 
-https://github-profile-trophy.vercel.app/?username=ICreeper12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-readme-stats.vercel.app/api?username=ICreeper12&show_icons=true&theme=tokyonight
+[![trophy](https://github-profile-trophy.vercel.app/?username=ICreeper12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![ICreeper12's github stats](https://github-readme-stats.vercel.app/api?username=ICreeper12&show_icons=true&theme=tokyonight
