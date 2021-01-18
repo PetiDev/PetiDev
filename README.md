@@ -10,4 +10,4 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I'm terrible in class names.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ICreeper12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![ICreeper12's github stats](https://github-readme-stats.vercel.app/api?username=ICreeper12&show_icons=true&theme=tokyonight
+![ICreeper12's github stats](https://github-readme-stats.vercel.app/api?username=ICreeper12&show_icons=true&theme=tokyonight)
