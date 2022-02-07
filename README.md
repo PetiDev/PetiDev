@@ -9,5 +9,5 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: The first website I worked on was made for a grammar lesson because my teammate said "let's make a website instead of PPT" and I said "why not"
 
 
-![ICreeper12's github stats](https://github-readme-stats.vercel.app/api?username=ICreeper12&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICreeper12&theme=dark) 
+![ICreeper12's github stats](https://github-readme-stats.vercel.app/api?username=PetiDev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetiDev&theme=dark) 
