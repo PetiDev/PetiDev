@@ -1,5 +1,6 @@
 # [**PetiDev**](https://icreeper12.me)
 ## Beginer software engineer
+[gist](https://gist.github.com/PetiDev)
 ---
 ![Profile Picture]( https://github.com/PetiDev.png?size=150) 
 ### **📜Languages:**
@@ -8,7 +9,6 @@
    - [ ] VUE
 - [x] HTML
 - [x] CSS
-   - [ ] SCSS
 - [x] BrainF**k
 - [ ] Python
 - [ ] C#
