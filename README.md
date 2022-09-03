@@ -11,6 +11,7 @@
 - [x] HTML
 - [x] CSS
 - [x] BrainF**k
+- [x] RegExp
 - [x] Python
 - [ ] GO
 - [ ] Kotlin
