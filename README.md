@@ -1,5 +1,5 @@
 # [**PetiDev**](https://icreeper12.me)
-## Beginer software engineer
+## Student Software Engineer
 [gist](https://gist.github.com/PetiDev)
 ---
 ![Profile Picture]( https://github.com/PetiDev.png?size=150) 
