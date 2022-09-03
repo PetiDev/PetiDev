@@ -7,7 +7,7 @@
 - [x] JavaScript
    - [x] NODE
    - [x] VUE
-   - [ ] NUXT
+      - [ ] NUXT
 - [x] HTML
 - [x] CSS
 - [x] BrainF**k
