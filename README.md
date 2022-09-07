@@ -1,4 +1,4 @@
-# [**PetiDev**](https://icreeper12.me)
+# [**PetiDev**](https://petidev.github.io/PetiDevSite/)
 ## Student Software Engineer
 [gist](https://gist.github.com/PetiDev)
 ---
