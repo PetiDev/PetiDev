@@ -22,7 +22,7 @@
 ### **📫How to reach me:**
 | Platform | Contact |
 | - | - | 
-| Discord | &#60;Peti/&#62;#1182 |
+| Discord | fox_byte |
 | Discord server | [LINK](https://discord.gg/8x9CHneNAK) |
 
 ![ICreeper12's github stats](https://github-readme-stats.vercel.app/api?username=PetiDev&show_icons=true&theme=tokyonight)
